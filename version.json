@@ -1,7 +1,7 @@
 {
-    "versionCode":  14,
-    "versionName":  "1.6.4",
+    "versionCode":  15,
+    "versionName":  "1.7.0",
     "apkUrl":  "https://raw.githubusercontent.com/pratikdetval3Core/zycor-app-update/main/Zycor-India.apk",
-    "sha256":  "d6dae323250ce6451a30db5485c3752562860cdfb96fa776193b4a40f29b83d0",
-    "notes":  "Update notice fix, Fixed Payment quick action, quick action bar, Switch user"
+    "sha256":  "a377f06f5109e762a5adec8467943e165f1ec98ecf995fe7f1f69c3c0cdad5b4",
+    "notes":  "New app-style sign-in screen"
 }
