@@ -1,0 +1,7 @@
+{
+    "versionCode":  12,
+    "versionName":  "1.6.2",
+    "apkUrl":  "https://raw.githubusercontent.com/pratikdetval3Core/zycor-app-update/main/Zycor-India.apk",
+    "sha256":  "a6cd2c5350ff231c60c1c9bafc124aca5ded6b786214458826cf9c806f2a09db",
+    "notes":  "Quick action bar, calendar layout fixes, Switch user"
+}
