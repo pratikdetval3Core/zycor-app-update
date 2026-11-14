@@ -1,7 +1,7 @@
 {
-    "versionCode":  16,
-    "versionName":  "1.7.1",
+    "versionCode":  17,
+    "versionName":  "1.7.2",
     "apkUrl":  "https://raw.githubusercontent.com/pratikdetval3Core/zycor-app-update/main/Zycor-India.apk",
-    "sha256":  "10882d172acd9315a7ebf7aa07ccd253884ee034fdfe82a440d2aa06fe599059",
-    "notes":  "Monthly Payment quick action, new sign-in screen"
+    "sha256":  "dab93c294dc8f1eca8f3b8db4fee90302a0127e94261b02ec9ff2826dbea1741",
+    "notes":  "Monthly Fixed Payment tab, new sign-in screen"
 }
