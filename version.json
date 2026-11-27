@@ -1,7 +1,7 @@
 {
-    "versionCode":  20,
-    "versionName":  "2.0.0",
+    "versionCode":  21,
+    "versionName":  "2.1.0",
     "apkUrl":  "https://raw.githubusercontent.com/pratikdetval3Core/zycor-app-update/main/Zycor-India.apk",
-    "sha256":  "bb5e178325ddd8741f49f6a202f113294ae56126a5ad32376de637758130d9f2",
-    "notes":  "New calendar: platform logos, one post per scroll, image and caption"
+    "sha256":  "cbd950f8505fb7b086630246d8ca2c73ea8ce3ad6e24e21723617d43740d0947",
+    "notes":  "Screen alignment fixes: lists as cards, filters, Settings, Monthly Fixed Payment, Task Progress"
 }
