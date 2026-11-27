@@ -1,7 +1,7 @@
 {
-    "versionCode":  23,
-    "versionName":  "2.3.0",
+    "versionCode":  24,
+    "versionName":  "2.4.0",
     "apkUrl":  "https://raw.githubusercontent.com/pratikdetval3Core/zycor-app-update/main/Zycor-India.apk",
-    "sha256":  "0ce4ca6ee757965fa65f0352fcbd16046839a0b1129baceff09fc3ea99d8354d",
-    "notes":  "Facebook removed. Icons for Manage and View live. More space on every screen: folding filters, two-column cards, tabs hide while reading."
+    "sha256":  "a65eab639f7d4e0e0fa71431c410bcbde12a8d68e06b7de5b00a2cefe122a583",
+    "notes":  "Faster and lighter: smaller app, calendar loads only what is on screen and remembers it, Monthly Fixed Payment cards stay after saving, several fixes."
 }
