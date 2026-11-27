@@ -1,7 +1,7 @@
 {
-    "versionCode":  22,
-    "versionName":  "2.2.0",
+    "versionCode":  23,
+    "versionName":  "2.3.0",
     "apkUrl":  "https://raw.githubusercontent.com/pratikdetval3Core/zycor-app-update/main/Zycor-India.apk",
-    "sha256":  "7b96348c65aa9afe2f8063a86136a3e1982cae6691ff983a19a7546275dcdbb9",
-    "notes":  "Calendar: smooth Instagram-style scrolling, full-width posts, more screen space, copy caption, image zoom. Wider layout on all screens."
+    "sha256":  "0ce4ca6ee757965fa65f0352fcbd16046839a0b1129baceff09fc3ea99d8354d",
+    "notes":  "Facebook removed. Icons for Manage and View live. More space on every screen: folding filters, two-column cards, tabs hide while reading."
 }
