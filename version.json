@@ -1,7 +1,7 @@
 {
-    "versionCode":  18,
-    "versionName":  "1.8.0",
+    "versionCode":  19,
+    "versionName":  "1.9.0",
     "apkUrl":  "https://raw.githubusercontent.com/pratikdetval3Core/zycor-app-update/main/Zycor-India.apk",
-    "sha256":  "1bd74c7e9b4d9589dc61953a7457e895dfea7786c516ca61efe3a575390ab980",
-    "notes":  "Monthly Fixed Payment screen, app-style screens"
+    "sha256":  "672a6817901c2ae08d695bbd8153e02c2a84475be65c39c7c828b3fc3953c8fc",
+    "notes":  "New Publishing Calendar: day-wise posts with image and caption"
 }
