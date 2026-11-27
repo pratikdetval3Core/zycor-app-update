@@ -1,7 +1,7 @@
 {
-    "versionCode":  19,
-    "versionName":  "1.9.0",
+    "versionCode":  20,
+    "versionName":  "2.0.0",
     "apkUrl":  "https://raw.githubusercontent.com/pratikdetval3Core/zycor-app-update/main/Zycor-India.apk",
-    "sha256":  "672a6817901c2ae08d695bbd8153e02c2a84475be65c39c7c828b3fc3953c8fc",
-    "notes":  "New Publishing Calendar: day-wise posts with image and caption"
+    "sha256":  "bb5e178325ddd8741f49f6a202f113294ae56126a5ad32376de637758130d9f2",
+    "notes":  "New calendar: platform logos, one post per scroll, image and caption"
 }
