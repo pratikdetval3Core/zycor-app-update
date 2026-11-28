@@ -1,7 +1,7 @@
 {
-    "versionCode":  31,
-    "versionName":  "3.2.0",
+    "versionCode":  32,
+    "versionName":  "3.3.0",
     "apkUrl":  "https://raw.githubusercontent.com/pratikdetval3Core/zycor-app-update/main/Zycor-India.apk",
-    "sha256":  "225df81d14122c9a0a19f8dbe88e677124e878fc70279f71c3bc5f24b9dbe698",
-    "notes":  "Zoho Books: tap an entry to open it, new Banking screen, clear Zoho sync button, no flash when going Back, Excel export removed."
+    "sha256":  "cc8df25d7a5abed84b930e2e7f0a787b6d00cc47b2ebfd643ba490479eed50d5",
+    "notes":  "Zoho Books now opens inside the app: lists and entries load without a page change, and Back is instant."
 }
