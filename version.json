@@ -1,7 +1,7 @@
 {
-    "versionCode":  29,
-    "versionName":  "3.1.0",
+    "versionCode":  30,
+    "versionName":  "3.1.1",
     "apkUrl":  "https://raw.githubusercontent.com/pratikdetval3Core/zycor-app-update/main/Zycor-India.apk",
-    "sha256":  "618e75ed043c1d394dddb85ee31add0c4b4c92f39b90bbfff64fc1ab858871a9",
-    "notes":  "Zoho Books lists redesigned: one clean line per entry with amount and coloured status, search, status buttons and sort."
+    "sha256":  "c85f7118896eb0e8f12e60dd196e5f603bb0684ef8fd0daaba5ec3ffd1cea793",
+    "notes":  "Excel export button removed from Zoho Books lists."
 }
