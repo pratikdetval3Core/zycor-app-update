@@ -1,7 +1,7 @@
 {
-    "versionCode":  28,
-    "versionName":  "3.0.0",
+    "versionCode":  29,
+    "versionName":  "3.1.0",
     "apkUrl":  "https://raw.githubusercontent.com/pratikdetval3Core/zycor-app-update/main/Zycor-India.apk",
-    "sha256":  "9df0a5542eaac8f8695b5bcb2f80de4abdc26530896dcae6150e711aa4cacab1",
-    "notes":  "Rebuilt in Kotlin: faster screens, pull down to refresh, clear Back / Home buttons at the bottom, tidier menu."
+    "sha256":  "618e75ed043c1d394dddb85ee31add0c4b4c92f39b90bbfff64fc1ab858871a9",
+    "notes":  "Zoho Books lists redesigned: one clean line per entry with amount and coloured status, search, status buttons and sort."
 }
