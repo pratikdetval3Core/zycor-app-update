@@ -1,7 +1,7 @@
 {
-    "versionCode":  27,
-    "versionName":  "2.7.0",
+    "versionCode":  28,
+    "versionName":  "3.0.0",
     "apkUrl":  "https://raw.githubusercontent.com/pratikdetval3Core/zycor-app-update/main/Zycor-India.apk",
-    "sha256":  "812c7dfb1e430b8fd2159625b01f0d545fc1ac3fb8a47e24147f6df7a2a1f84c",
-    "notes":  "Cleaner alignment on every screen: even Zoho Books icon rows, tidy list headers, two-column filters and Cuisine pictures."
+    "sha256":  "9df0a5542eaac8f8695b5bcb2f80de4abdc26530896dcae6150e711aa4cacab1",
+    "notes":  "Rebuilt in Kotlin: faster screens, pull down to refresh, clear Back / Home buttons at the bottom, tidier menu."
 }
