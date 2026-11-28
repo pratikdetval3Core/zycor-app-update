@@ -1,7 +1,7 @@
 {
-    "versionCode":  26,
-    "versionName":  "2.6.0",
+    "versionCode":  27,
+    "versionName":  "2.7.0",
     "apkUrl":  "https://raw.githubusercontent.com/pratikdetval3Core/zycor-app-update/main/Zycor-India.apk",
-    "sha256":  "f4edf2d07915c6e8150309f73a38857fafdd918628d119ed888da29cc8fc225d",
-    "notes":  "Zoho Books added to the side menu with an icon screen: Sales, Purchases and Banking with bank balance."
+    "sha256":  "812c7dfb1e430b8fd2159625b01f0d545fc1ac3fb8a47e24147f6df7a2a1f84c",
+    "notes":  "Cleaner alignment on every screen: even Zoho Books icon rows, tidy list headers, two-column filters and Cuisine pictures."
 }
