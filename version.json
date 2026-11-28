@@ -1,7 +1,7 @@
 {
-    "versionCode":  25,
-    "versionName":  "2.5.0",
+    "versionCode":  26,
+    "versionName":  "2.6.0",
     "apkUrl":  "https://raw.githubusercontent.com/pratikdetval3Core/zycor-app-update/main/Zycor-India.apk",
-    "sha256":  "bfb9e0e00c924926021a207497aab70d08395092bf76f5ff72266bac04c57f16",
-    "notes":  "Bottom quick action bar removed. Digital Marketing section added to the side menu."
+    "sha256":  "f4edf2d07915c6e8150309f73a38857fafdd918628d119ed888da29cc8fc225d",
+    "notes":  "Zoho Books added to the side menu with an icon screen: Sales, Purchases and Banking with bank balance."
 }
