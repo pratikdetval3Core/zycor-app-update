@@ -1,7 +1,7 @@
 {
-    "versionCode":  24,
-    "versionName":  "2.4.0",
+    "versionCode":  25,
+    "versionName":  "2.5.0",
     "apkUrl":  "https://raw.githubusercontent.com/pratikdetval3Core/zycor-app-update/main/Zycor-India.apk",
-    "sha256":  "a65eab639f7d4e0e0fa71431c410bcbde12a8d68e06b7de5b00a2cefe122a583",
-    "notes":  "Faster and lighter: smaller app, calendar loads only what is on screen and remembers it, Monthly Fixed Payment cards stay after saving, several fixes."
+    "sha256":  "bfb9e0e00c924926021a207497aab70d08395092bf76f5ff72266bac04c57f16",
+    "notes":  "Bottom quick action bar removed. Digital Marketing section added to the side menu."
 }
